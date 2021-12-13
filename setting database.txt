@@ -1,0 +1,6 @@
+DB_CONNECTION=mysql
+DB_HOST=yusrilmym.com
+DB_PORT=3306
+DB_DATABASE=u5034871_trison
+DB_USERNAME=u5034871_trisonuser
+DB_PASSWORD=u5034871_trisonpass
